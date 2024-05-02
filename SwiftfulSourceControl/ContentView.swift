@@ -7,6 +7,26 @@
 
 import SwiftUI
 
+/*
+ COMMIT MESSAGES
+ 
+ NEW FEATURE:
+ [Feature] Description of the feature
+ 
+ BUG IN PRODUCTION:
+ [Patch] Description of the patch
+ 
+ BUG NOT IN PRODUCTION:
+ [Bug] Decription of the bug
+ 
+ MUNDANE TASKS:
+ [Clean] Description of changes
+ 
+ RELEASE:
+ [Release] Description of release
+ 
+ */
+
 struct ContentView: View {
     var body: some View {
         VStack {
