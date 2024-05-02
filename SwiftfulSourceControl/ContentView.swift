@@ -18,6 +18,13 @@ struct ContentView: View {
             Button("Click me") {
                 
             }
+            .padding(.horizontal, 12)
+            .padding(.vertical, 6)
+            .background(Color.purple)
+            .foregroundStyle(.white)
+            .clipShape(
+                RoundedRectangle(cornerRadius: 4)
+            )
         }
         .padding()
     }
