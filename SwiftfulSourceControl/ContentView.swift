@@ -34,16 +34,6 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Swiftful")
             
-            Button("Click me") {
-                
-            }
-            .padding(.horizontal, 12)
-            .padding(.vertical, 6)
-            .background(Color.red)
-            .foregroundStyle(.white)
-            .clipShape(
-                RoundedRectangle(cornerRadius: 4)
-            )
             
             Button("Subscribe") {
                 
