@@ -45,6 +45,10 @@ struct ContentView: View {
             .clipShape(
                 RoundedRectangle(cornerRadius: 4)
             )
+            
+            Button("Subscribe") {
+                
+            }
         }
         .padding()
     }
