@@ -40,7 +40,7 @@ struct ContentView: View {
             }
             .padding(.horizontal, 12)
             .padding(.vertical, 6)
-            .background(Color.green)
+            .background(Color.red)
             .foregroundStyle(.white)
             .clipShape(
                 RoundedRectangle(cornerRadius: 4)
