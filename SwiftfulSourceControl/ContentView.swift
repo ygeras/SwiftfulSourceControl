@@ -13,14 +13,14 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("SwiftfulThinking")
+            Text("Swiftful")
             
             Button("Click me") {
                 
             }
             .padding(.horizontal, 12)
             .padding(.vertical, 6)
-            .background(Color.purple)
+            .background(Color.green)
             .foregroundStyle(.white)
             .clipShape(
                 RoundedRectangle(cornerRadius: 4)
