@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		644153172BE94D5700A3625D /* Testing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 644153162BE94D5700A3625D /* Testing.swift */; };
+		644153192BE94DA200A3625D /* AnotherTestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 644153182BE94DA200A3625D /* AnotherTestFile.swift */; };
 		647747932BE3CF93003CB835 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647747922BE3CF93003CB835 /* HomeView.swift */; };
 		64F88ACA2BE37A47004EBEE2 /* SwiftfulSourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64F88AC92BE37A47004EBEE2 /* SwiftfulSourceControlApp.swift */; };
 		64F88ACC2BE37A47004EBEE2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64F88ACB2BE37A47004EBEE2 /* ContentView.swift */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		644153162BE94D5700A3625D /* Testing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Testing.swift; sourceTree = "<group>"; };
+		644153182BE94DA200A3625D /* AnotherTestFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnotherTestFile.swift; sourceTree = "<group>"; };
 		647747922BE3CF93003CB835 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		64F88AC62BE37A47004EBEE2 /* SwiftfulSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		64F88AC92BE37A47004EBEE2 /* SwiftfulSourceControlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulSourceControlApp.swift; sourceTree = "<group>"; };
@@ -56,6 +60,8 @@
 				64F88AC92BE37A47004EBEE2 /* SwiftfulSourceControlApp.swift */,
 				64F88ACB2BE37A47004EBEE2 /* ContentView.swift */,
 				647747922BE3CF93003CB835 /* HomeView.swift */,
+				644153162BE94D5700A3625D /* Testing.swift */,
+				644153182BE94DA200A3625D /* AnotherTestFile.swift */,
 				64F88ACD2BE37A48004EBEE2 /* Assets.xcassets */,
 				64F88ACF2BE37A48004EBEE2 /* Preview Content */,
 			);
@@ -141,6 +147,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				647747932BE3CF93003CB835 /* HomeView.swift in Sources */,
+				644153192BE94DA200A3625D /* AnotherTestFile.swift in Sources */,
+				644153172BE94D5700A3625D /* Testing.swift in Sources */,
 				64F88ACC2BE37A47004EBEE2 /* ContentView.swift in Sources */,
 				64F88ACA2BE37A47004EBEE2 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
