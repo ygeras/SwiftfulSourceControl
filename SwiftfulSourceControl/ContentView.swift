@@ -35,7 +35,7 @@ struct ContentView: View {
             Text("Swiftful Thinking!!!!!!")
             
             
-            Button("Subscribe now") {
+            Button("Subscribe") {
                 
             }
         }
