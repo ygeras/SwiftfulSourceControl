@@ -29,7 +29,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "house.fill")
+            Image(systemName: "magnifyingglass")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful")
