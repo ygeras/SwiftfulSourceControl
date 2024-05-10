@@ -29,13 +29,13 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "magnifyingglass")
+            Image(systemName: "globe")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swiftful Thinking ")
+            Text("Swiftful Thinking!!!!!!")
             
             
-            Button("Subscribe now") {
+            Button("Subscribe") {
                 
             }
         }
