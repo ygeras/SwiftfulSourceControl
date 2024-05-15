@@ -1,0 +1,81 @@
+# Xcode
+#
+build/
+*.xcuserstate
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+*.moved-aside
+DerivedData
+.idea/
+*.hmap
+*.ipa
+*.app
+*.dsym
+*.xcuserdatad/
+*.xcscmblueprint
+
+# Swift Package Manager
+#
+.build/
+Packages/
+Package.pins
+Package.resolved
+
+# CocoaPods
+#
+Pods/
+Podfile.lock
+
+# Carthage
+#
+Carthage/Build/
+
+# Fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Xcode Archive
+#
+*.xcarchive
+
+# Playgrounds
+#
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftPM configuration
+#
+.swiftpm/xcode/package.xcworkspace/
+
+# IDE specific
+#
+*.idea/workspace.xml
+*.idea/libraries
+*.idea/shelf
+*.idea/workspace.xml
+*.vscode/
+
+# Other
+#
+*.orig
+*.log
+
+# User-specific files
+#
+*.swp
+*~.nib
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.hmap
+*.index/
+*.lock
+.DS_Store
+.user
+.sconsign.dblite
+*.plist
+*.xcscheme
+*.pbxuser
